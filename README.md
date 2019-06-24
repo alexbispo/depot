@@ -15,6 +15,8 @@ Things you may want to cover:
 
 * Configuration
 
+  TODO
+  
 * Database creation
   
   $ rails db:create

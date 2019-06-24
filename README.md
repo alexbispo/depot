@@ -1,9 +1,12 @@
-# README
+# Depot Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Depot is a web-based shopping cart application builded by the authors of the great book Agile Web Development with Rails.
 
-Things you may want to cover:
+About that (my personal) implementation:
+
+* Rails version
+
+  5.2.x  
 
 * Ruby version
 
@@ -16,7 +19,7 @@ Things you may want to cover:
 * Configuration
 
   TODO
-  
+
 * Database creation
   
   $ rails db:create
